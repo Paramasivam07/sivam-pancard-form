@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.head{
+    background-color: red;
+    color: white;
+    text-align: center;
+    width: 100%;
+    font-weight: bold;
+
+}
+.b1{
+    color: blue;
+    font-style: italic;
+}
+table,tr,td{
+    background-color: lightgoldenrodyellow;
+    border: 1px solid black;
+    border-collapse: collapse;
+
+
+}
+table{
+    width: 100%;
+
+}
+.b2{
+    color: green;
+}
+.input{
+    width: 48%;
+}
+.input2{
+    width: 22%;
+}
+.b3
+{
+    color: green;
+}
+.b4{
+    color: green;
+}
+.b5{
+    color: green;
+}
+.b6{
+    font-style: italic;
+    font-weight: lighter;
+}
+.b7{
+    color: green;
+}
+.b8{
+    color: brown;
+}
+.b9{
+    color: green;
+}
+.b10{
+    color: green;
+}
+.b11{
+    color: green;
+}
